@@ -1,6 +1,6 @@
-# Hi 👋, I'm YOUR_NAME
+# Hi 👋, I'm Faraz Shahid
 
-### YOUR_TITLE
+### Full-Stack AI Engineer
 
 I'm a Full Stack AI Engineer focused on building production ready AI applications, RAG systems, AI agents, and modern web applications.
 
@@ -52,7 +52,7 @@ Completed DeepLearning.AI's Retrieval Augmented Generation (RAG) course covering
 
 🔗 **Certificate Verification**
 
-[YOUR_DEEPLEARNING_CERTIFICATE_URL](https://learn.deeplearning.ai/certificates/df28c30d-1f94-4dcc-a7eb-d6f06b547ae1)
+https://learn.deeplearning.ai/certificates/df28c30d-1f94-4dcc-a7eb-d6f06b547ae1
 
 ### Certificate
 
