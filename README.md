@@ -56,7 +56,7 @@ https://learn.deeplearning.ai/certificates/df28c30d-1f94-4dcc-a7eb-d6f06b547ae1
 
 ### Certificate
 
-<img src="./images/rag-certificate.png" width="800"/>
+<img src="./images/https://github.com/ranafaraznaru/ranafaraznaru/blob/main/rag_certification.png" width="800"/>
 
 ---
 
